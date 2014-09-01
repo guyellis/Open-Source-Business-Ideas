@@ -5,6 +5,8 @@ A place to dump and improve on business ideas that you think are great but that 
 
 Every now and then I come up with what I think is a great business idea. When I was younger I'd keep those ideas secret to myself thinking that one day I may create, develop and market that product. The cold reality is that most of these products never interested me from a business perspective and I started sharing them in the hope that someone else would take the idea and run with it and I would get the satisfaction of seeing an idea of mine taken to the open market.
 
+By opening sourcing business ideas that we'll never implement we improve the world with our ideas and inventions and ensure that they don't die with us. We might also provide a living for someone or perhaps even a whole group of people.
+
 The purpose of this project is to allow myself to share ideas that I've had that I hope someone will take and use to create a business for themselves. It also servers as a central location that others can:
 
 1. Add their ideas.
