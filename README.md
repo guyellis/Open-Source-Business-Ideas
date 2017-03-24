@@ -1,6 +1,16 @@
 Open-Source-Business-Ideas
 ==========================
 
+### Ideas
+
+- [Lego Easter Eggs](lego-easter-eggs.md)
+- [Audio Tours](audio-tours.md)
+- [Automating Silent Alarm in Banks](automating-silent-alarm-in-bank.md)
+- [Clean Hands at Work](incentivizing-clean-hands-at-work.md)
+- [The Obvious Clothing Company](obvious-clothing-company.md)
+
+### Info
+
 A place to dump and improve on business ideas that you think are great but that you might not want to develop yourself.
 
 Every now and then I come up with what I think is a great business idea. When I was younger I'd keep those ideas secret to myself thinking that one day I may create, develop and market that product. The cold reality is that most of these products never interested me from a business perspective and I started sharing them in the hope that someone else would take the idea and run with it and I would get the satisfaction of seeing an idea of mine taken to the open market.
